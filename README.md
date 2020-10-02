@@ -1,1 +1,3 @@
-# This just for record of my python_learning, some case study and practise
+# This just for keep track of my python_learning,
+
+# Files are practise cases
